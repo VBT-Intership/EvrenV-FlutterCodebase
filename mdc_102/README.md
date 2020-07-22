@@ -2,4 +2,4 @@
 
 ## Screen
 
-<img src="ss/simulator.png" width="500" height="620" >
+<img src="ss/simulator.png" width="250" height="470" >
