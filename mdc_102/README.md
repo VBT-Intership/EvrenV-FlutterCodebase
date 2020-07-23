@@ -1,4 +1,4 @@
-# MDC-100 Series of Codelabs
+# MDC-102 Series of Codelabs
 
 ## Screen
 
